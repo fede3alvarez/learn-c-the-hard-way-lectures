@@ -1,7 +1,7 @@
 CFLAGS=-Wall -g
 
-all: ex1
+all: ex1_federico
 
 clean:
-	rm -f ex1
+	rm -f ex1_federico
 
